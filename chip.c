@@ -417,3 +417,4 @@ int main(int argc, char **argv) {
 		SDL_RenderPresent(renderer);
 	}
 }
+// le funy number has arrived
